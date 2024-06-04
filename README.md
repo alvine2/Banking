@@ -1,5 +1,4 @@
 # Banking
-Full-stack banking system/Application
 ![Alt text](./bank.PNG)
 <div align="center">
  <div>
